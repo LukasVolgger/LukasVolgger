@@ -44,7 +44,8 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
   
   <details> 
   <summary>:computer: <b>Operating Systems</b></summary>
-
+  <br>
+  
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   
