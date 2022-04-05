@@ -8,7 +8,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
 
 
 <details> 
-  <summary>:bar_chart: Statistics</summary>
+  <summary>:bar_chart: <b>Statistics</b></summary>
   <br>
     
 [![LukasVolgger's github stats](https://github-readme-stats.vercel.app/api?username=LukasVolgger&count_private=true&show_icons=true&theme=algolia)](https://github.com/LukasVolgger)
@@ -17,7 +17,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
 </details>
 
 <details> 
-  <summary>:muscle: Skills & Languages</summary>
+  <summary>:muscle: <b>Skills & Languages</b></summary>
   <br>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
 </details>
 
 <details> 
-  <summary>:rocket: Tools & Frameworks</summary>
+  <summary>:rocket: <b>Tools & Frameworks</b></summary>
   <br>
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
