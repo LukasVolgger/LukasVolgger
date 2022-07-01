@@ -2,7 +2,7 @@
 
 My name is Lukas Volgger and I'm a Frontend Web Developer from Austria. 
 
-- 🔭 I’m currently working on https://github.com/azerothcore/azerothcore-wotlk
+- 🔭 I’m currently working on https://github.com/LukasVolgger/sharkie
 - 🌱 I’m currently learning HTML, CSS, JS and SQL
 - 💬 You can speak to me in english, german and sarcasm
 
