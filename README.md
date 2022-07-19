@@ -1,10 +1,15 @@
+<h1 align="center">Hello there! :wave:</h1>
+<p align="center">I'm glad you discovered my profile.</p>
+<br>
+
 <h2>About Me</h2>
 
 My name is Lukas Volgger and I'm a Frontend Web Developer from Austria. 
 
-- 🔭 I’m currently working on https://github.com/LukasVolgger/sharkie
-- 🌱 I’m currently learning HTML, CSS, JS and SQL
-- 💬 You can speak to me in english, german and sarcasm
+- :pushpin: I’m currently working on https://github.com/LukasVolgger/sharkie
+- :open_book: I’m currently learning HTML, CSS, JS and SQL
+- :speech_balloon: You can speak to me in english, german and sarcasm
+- :white_heart: I love coding, gaming, nature and god
 
 
 <details> 
