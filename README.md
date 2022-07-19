@@ -1,6 +1,16 @@
 <h1 align="center">Hello there! :wave:</h1>
-<p align="center">I'm glad you discovered my profile.</p>
+<p align="center">I'm glad you discovered my profile. Do you know the song "Infinity" from Guru Josh?</p>
+
+<p align="center">
+:notes: <br>
+"Here's my key <br>
+Philosophy <br>
+A freak like me <br>
+Just needs infinity" <br>
+:notes:<br>
 <br>
+That is my life.<br> ~(^-^)~
+</p>
 
 <h2>About Me</h2>
 
