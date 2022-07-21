@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! :wave:</h1>
-<p align="center">I'm glad you discovered my profile. Do you know the song "Infinity" from Guru Josh?</p>
+<p align="center">I'm glad you discovered my profile. Do you know the song "Infinity (2008)" from Guru Josh?</p>
 
 <p align="center">
 :notes: <br>
@@ -17,7 +17,7 @@ That is my life.<br> ~(^-^)~
 My name is Lukas Volgger and I'm a Frontend Web Developer from Austria. 
 
 - :pushpin: I’m currently working on https://github.com/LukasVolgger/sharkie
-- :open_book: I’m currently learning HTML, CSS, JS and SQL
+- :open_book: I’m currently learning HTML, CSS, JS, Angular and SQL
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :white_heart: I love coding, gaming, nature and god
 
@@ -38,6 +38,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
@@ -56,6 +57,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
   ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
   
   </details>
   
