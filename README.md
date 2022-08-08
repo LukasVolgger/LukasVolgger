@@ -1,16 +1,10 @@
 <h1 align="center">Hello there! :wave:</h1>
-<p align="center">I'm glad you discovered my profile. Do you know the song "Infinity (2008)" from Guru Josh?</p>
+<p align="center">I'm glad you discovered my profile. You can contact me on:</p>
+<div align="center">
 
-<p align="center">
-:notes: <br>
-"Here's my key <br>
-Philosophy <br>
-A freak like me <br>
-Just needs infinity" <br>
-:notes:<br>
-<br>
-That is my life.<br> ~(^-^)~
-</p>
+<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
+
+</div>
 
 <h2>About Me</h2>
 
