@@ -10,7 +10,7 @@
 
 My name is Lukas Volgger and I'm a Frontend Web Developer from Austria. 
 
-- :pushpin: I’m currently working on https://github.com/LukasVolgger/sharkie
+- :pushpin: I’m currently working on https://github.com/LukasVolgger/lukas-volgger-at
 - :open_book: I’m currently learning HTML, CSS, JS, Angular and SQL
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :white_heart: I love coding, gaming, nature and god
