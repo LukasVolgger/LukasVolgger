@@ -1,8 +1,10 @@
-<h1 align="center">Hello there! :wave:</h1>
+<h1 align="center">Hello! :wave:</h1>
 <p align="center">I'm glad you discovered my profile. You can contact me on:</p>
 <div align="center">
 
 <a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
+
+<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=E-Mail&message=contact%40lukas-volgger.at&color=%23495bd1&style=for-the-badge)</a>
 
 </div>
 
