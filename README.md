@@ -3,14 +3,14 @@
 
 My Portfolio Website:
 
-[![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=Portfolio&message=https%3A%2F%2Flukas-volgger.at&color=fcba03&style=for-the-badge)](https://lukas-volgger.at)
+[![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%230D1117&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)](https://lukas-volgger.at)
 
 You can contact me on:
 
-<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=E-Mail&message=contact%40lukas-volgger.at&color=%23495bd1&style=for-the-badge)</a>
-<a href="https://www.linkedin.com/in/lukas-volgger-894541251/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.xing.com/profile/Lukas_Volgger4">![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)</a>
-<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
+<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%230D1117&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
+<a href="https://www.linkedin.com/in/lukas-volgger-894541251/">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%230D1117&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
+<a href="https://www.xing.com/profile/Lukas_Volgger4">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%230D1117&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
+<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%230D1117&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
 
 
 <h2>About Me</h2>
