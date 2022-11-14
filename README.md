@@ -1,19 +1,4 @@
-<h1>Hi, i'm Lukas :wave:</h1>
-<p>I'm glad you discovered my profile. <br> 
-
-My Portfolio Website:
-
-[![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%230D1117&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)](https://lukas-volgger.at)
-
-You can contact me on:
-
-<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%230D1117&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
-<a href="https://www.linkedin.com/in/lukas-volgger-894541251/">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%230D1117&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
-<a href="https://www.xing.com/profile/Lukas_Volgger4">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%230D1117&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
-<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%230D1117&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
-
-
-<h2>About Me</h2>
+<h1>Hi, I'm Lukas :wave:</h1>
 
 I'm a Frontend Developer from Austria and enthusiastic gamer.
 
@@ -22,14 +7,24 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :white_heart: I love coding, gaming, nature and god
 
+<h2>:page_with_curl: Contact</h2>
+
+<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%230D1117&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
+<a href="https://www.linkedin.com/in/lukas-volgger-894541251/">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%230D1117&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
+<a href="https://www.xing.com/profile/Lukas_Volgger4">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%230D1117&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
+<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%230D1117&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
+
+My Portfolio Website:
+
+[![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%230D1117&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)](https://lukas-volgger.at)
 
 <details> 
   <summary>:bar_chart: <b>Statistics</b></summary>
   <br>
     
-![Lukas Volgger's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=00000000&hide_border=true&text_color=2478ff&title_color=2478ff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=00000000&hide_border=true&text_color=2478ff&title_color=2478ff)](https://github.com/LukasVolgger)
-[![Lukas Volgger's github activity graph](https://activity-graph.herokuapp.com/graph?username=LukasVolgger&bg_color=0D1117&color=708090&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Lukas Volgger's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=00000000&hide_border=true&text_color=ffffff&title_color=2478ff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=00000000&hide_border=true&text_color=ffffff&title_color=2478ff)](https://github.com/LukasVolgger)
+[![Lukas Volgger's github activity graph](https://activity-graph.herokuapp.com/graph?username=LukasVolgger&bg_color=0D1117&color=2478ff&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=2478ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
