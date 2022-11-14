@@ -66,4 +66,4 @@ My Portfolio Website:
   
   ---
   
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=LukasVolgger&repo=LukasVolgger&countColor=%ffffff)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=LukasVolgger&repo=LukasVolgger&labelColor=%23131414&countColor=%23131414)
