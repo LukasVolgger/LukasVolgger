@@ -18,7 +18,7 @@ You can contact me on:
 I'm a Frontend Developer from Austria and enthusiastic gamer.
 
 - :pushpin: I’m currently working on https://github.com/LukasVolgger/lukas-volgger-at
-- :open_book: I’m currently learning HTML, CSS, JS, Angular and SQL
+- :open_book: I’m currently learning JavaScript, TypeScript and Angular
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :white_heart: I love coding, gaming, nature and god
 
