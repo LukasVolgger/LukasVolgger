@@ -36,12 +36,12 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
   <summary>:zap: <b>Skills & Languages</b></summary>
   <br>
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=%230D1117&style=for-the-badge&logo=html5&logoColor=%232478ff)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=%230D1117&style=for-the-badge&logo=css3&logoColor=%232478ff)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=%230D1117&style=for-the-badge&logo=javascript&logoColor=%232478ff)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%230D1117&style=for-the-badge&logo=typescript&logoColor=%232478ff)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=%230D1117&style=for-the-badge&logo=git&logoColor=%232478ff)
+![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=%230D1117&style=for-the-badge&logo=mysql&logoColor=%232478ff)
   
 </details>
 
@@ -49,18 +49,19 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
   <summary>:rocket: <b>Tools & Frameworks</b></summary>
   <br>
   
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=%230D1117&style=for-the-badge&logo=visual-studio-code&logoColor=%232478ff)
+![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=%230D1117&style=for-the-badge&logo=visual-studio&logoColor=%232478ff)
+![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=%230D1117&style=for-the-badge&logo=angular&logoColor=%232478ff)
+![Node.JS](https://img.shields.io/static/v1?label=&message=Node.JS&color=%230D1117&style=for-the-badge&logo=node.js&logoColor=%232478ff)
+![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%230D1117&style=for-the-badge&logo=firebase&logoColor=%232478ff)
+![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=%230D1117&style=for-the-badge&logo=bootstrap&logoColor=%232478ff)
+![Material Design](https://img.shields.io/static/v1?label=&message=Material+Design&color=%230D1117&style=for-the-badge&logo=material-design&logoColor=%232478ff)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=%230D1117&style=for-the-badge&logo=github&logoColor=%232478ff)
+![Notepad++](https://img.shields.io/static/v1?label=&message=Notepad%2B%2B&color=%230D1117&style=for-the-badge&logo=notepad%2B%2B&logoColor=%232478ff)
+![Cmake](https://img.shields.io/static/v1?label=&message=Cmake&color=%230D1117&style=for-the-badge&logo=cmake&logoColor=%232478ff)
+![Chrome](https://img.shields.io/static/v1?label=&message=Chrome&color=%230D1117&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)
+![Inkscape](https://img.shields.io/static/v1?label=&message=Inkscape&color=%230D1117&style=for-the-badge&logo=inkscape&logoColor=%232478ff)
+[![GIMP](https://img.shields.io/static/v1?label=&message=GIMP&color=%230D1117&style=for-the-badge&logo=gimp&logoColor=%232478ff)](contact@lukas-volgger.at)
   
   </details>
   
