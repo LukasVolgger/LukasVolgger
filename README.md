@@ -1,4 +1,4 @@
-<h1>Hello! :wave:</h1>
+<h1>Hi, i'm Lukas :wave:</h1>
 <p>I'm glad you discovered my profile. <br> 
 
 My Portfolio Website:
@@ -15,7 +15,7 @@ You can contact me on:
 
 <h2>About Me</h2>
 
-My name is Lukas Volgger and I'm a Frontend Web Developer from Austria. 
+I'm a Frontend Developer from Austria and enthusiastic gamer.
 
 - :pushpin: I’m currently working on https://github.com/LukasVolgger/lukas-volgger-at
 - :open_book: I’m currently learning HTML, CSS, JS, Angular and SQL
@@ -33,7 +33,7 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
 </details>
 
 <details> 
-  <summary>:muscle: <b>Skills & Languages</b></summary>
+  <summary>:zap: <b>Skills & Languages</b></summary>
   <br>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,30 +64,9 @@ My name is Lukas Volgger and I'm a Frontend Web Developer from Austria.
   
   </details>
   
-  <details> 
-  <summary>:computer: <b>Operating Systems</b></summary>
-  <br>
-  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  
-  </details>
   
   ---
   
   ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=LukasVolgger&repo=LukasVolgger&countColor=%ffffff)
   
-<!--
-**LukasVolgger/LukasVolgger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
