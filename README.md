@@ -27,8 +27,8 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
   <summary>:bar_chart: <b>Statistics</b></summary>
   <br>
     
-[![LukasVolgger's github stats](https://github-readme-stats.vercel.app/api?username=LukasVolgger&count_private=true&show_icons=true&theme=algolia)](https://github.com/LukasVolgger)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&theme=algolia)](https://github.com/LukasVolgger)
+![Lukas Volgger's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=00000000&hide_border=true&text_color=2478ff&title_color=2478ff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=00000000&hide_border=true&text_color=2478ff&title_color=2478ff)](https://github.com/LukasVolgger)
 [![Lukas Volgger's github activity graph](https://activity-graph.herokuapp.com/graph?username=LukasVolgger&bg_color=0D1117&color=708090&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
