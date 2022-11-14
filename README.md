@@ -19,7 +19,7 @@ My Portfolio Website:
 [![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%23131414&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)](https://lukas-volgger.at)
 
 <details> 
-  <summary>:bar_chart: <b>Statistics</b></summary>
+  <summary>:chart_with_upwards_trend: <b>Statistics</b></summary>
   <br>
   
   <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=131414&hide_border=true&text_color=ffffff&title_color=2478ff" height="200px" />
