@@ -3,9 +3,9 @@
 I'm a Frontend Developer from Austria and enthusiastic gamer.
 
 - :fire: I’m currently working on https://github.com/LukasVolgger/lukas-volgger-at
-- :open_book: I’m currently learning JavaScript, TypeScript and Angular
+- :books: I’m currently learning JavaScript, TypeScript and Angular
 - :speech_balloon: You can speak to me in english, german and sarcasm
-- :white_heart: I love coding, gaming, nature and god
+- :heart: I love coding, gaming, nature and god
 
 <h2>:page_with_curl: Contact</h2>
 
