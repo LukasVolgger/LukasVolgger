@@ -9,14 +9,14 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
 
 <h2>:page_with_curl: Contact</h2>
 
-<a href="mailto: contact@lukas-volgger.at">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
-<a href="https://www.linkedin.com/in/lukas-volgger-894541251/">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%23202121&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
-<a href="https://www.xing.com/profile/Lukas_Volgger4">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%23202121&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
-<a href="https://discordapp.com/users/LukasVolgger#2269"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%23202121&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
+<a href="mailto: contact@lukas-volgger.at" target="_blank">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
+<a href="https://www.linkedin.com/in/lukas-volgger-894541251/" target="_blank">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%23202121&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
+<a href="https://www.xing.com/profile/Lukas_Volgger4" target="_blank">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%23202121&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
+<a href="https://discordapp.com/users/LukasVolgger#2269" target="_blank"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%23202121&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
 
 My Portfolio Website:
 
-[![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)](https://lukas-volgger.at)
+<a href="https://lukas-volgger.at" target="_blank">![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)</a>
 
 <details> 
   <summary>:bar_chart: <b>Statistics</b></summary>
