@@ -26,8 +26,7 @@ My Portfolio Website:
   <br>
   <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=2478ff" height="200px" />
   <br>
-  <img alt="Lukas Volgger's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=LukasVolgger&bg_color=202121&color=2478ff&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=2478ff" height="200px" />
-
+  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=2478ff&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=2478ff" height="200px" />
 
 </details>
 
