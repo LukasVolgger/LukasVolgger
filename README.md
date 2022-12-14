@@ -16,7 +16,7 @@ I'm a Frontend Developer from Austria and enthusiastic gamer.
 
 My Portfolio Website:
 
-<a href="https://lukas-volgger.at" target="_blank">![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.t&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)</a>
+<a href="https://lukas-volgger.at" target="_blank">![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)</a>
 
 <details> 
   <summary>:bar_chart: <b>Statistics</b></summary>
