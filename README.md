@@ -2,8 +2,8 @@
 
 I'm a Frontend Developer from Austria and enthusiastic gamer.
 
-- :fire: I’m currently working on <a href="https://github.com/LukasVolgger/simple-crm">Simple CRM</a> & <a href="https://github.com/daniel-johannsen/slack-clone">Slack Clone</a>
-- :books: I’m currently learning JavaScript, TypeScript and Angular
+- :fire: I’m currently working on java course
+- :books: I’m currently learning Java, DevOps
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :heart: I love coding, gaming, nature and god
 
