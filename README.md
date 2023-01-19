@@ -40,6 +40,7 @@ My Portfolio Website:
   ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%23202121&style=for-the-badge&logo=typescript&logoColor=%232478ff)
   ![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23202121&style=for-the-badge&logo=git&logoColor=%232478ff)
   ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=%23202121&style=for-the-badge&logo=mysql&logoColor=%232478ff)
+  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=%23202121&style=for-the-badge&logo=java&logoColor=%232478ff)
   
 </details>
 
@@ -50,6 +51,7 @@ My Portfolio Website:
   ![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%232478ff)
   ![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=%23202121&style=for-the-badge&logo=visual-studio&logoColor=%232478ff)
   ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=%23202121&style=for-the-badge&logo=angular&logoColor=%232478ff)
+  ![Play](https://img.shields.io/static/v1?label=&message=Play+Framework&color=%23202121&style=for-the-badge&logo=play&logoColor=%232478ff)
   ![Node.JS](https://img.shields.io/static/v1?label=&message=Node.JS&color=%23202121&style=for-the-badge&logo=node.js&logoColor=%232478ff)
   ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23202121&style=for-the-badge&logo=firebase&logoColor=%232478ff)
   ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23202121&style=for-the-badge&logo=bootstrap&logoColor=%232478ff)
