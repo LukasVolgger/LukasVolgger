@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lukas :wave:</h1>
 
-I'm a Frontend Developer from Austria and enthusiastic gamer.
+I'm a Software Engineer from Austria and enthusiastic gamer.
 
 - :fire: I’m currently working on java course
 - :books: I’m currently learning Java, DevOps
