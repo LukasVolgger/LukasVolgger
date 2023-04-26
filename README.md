@@ -1,67 +1,77 @@
-<h1>Hi, I'm Lukas :wave:</h1>
+# Hi, I'm Lukas :wave:
 
-I'm a Software Engineer from Austria and enthusiastic gamer.
+I am a full-stack software developer from Austria and an enthusiastic gamer.
 
-- :fire: I’m currently working on java course
-- :books: I’m currently learning Java, DevOps
+- :fire: I am currently working on several private projects
+- :books: I am currently learning Java, Spring Boot, DevOps
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :heart: I love coding, gaming, nature and god
 
-<h2>:page_with_curl: Contact</h2>
+## :page_with_curl: Contact
 
-<a href="mailto: contact@lukas-volgger.at" target="_blank">![E-Mail - contact@lukas-volgger.at](https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%232478ff)</a>
-<a href="https://www.linkedin.com/in/lukas-volgger-894541251/" target="_blank">![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=%23202121&style=for-the-badge&logo=linkedin&logoColor=%232478ff)</a>
-<a href="https://www.xing.com/profile/Lukas_Volgger4" target="_blank">![XING](https://img.shields.io/static/v1?label=&message=xing&color=%23202121&style=for-the-badge&logo=xing&logoColor=%232478ff)</a>
-<a href="https://discordapp.com/users/LukasVolgger#2269" target="_blank"> ![Discord](https://img.shields.io/static/v1?label=&message=discord&color=%23202121&style=for-the-badge&logo=discord&logoColor=%232478ff)</a>
+<br>
 
-My Portfolio Website:
+<a href="mailto: contact@lukas-volgger.at" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%23ECB831" height="32">
+</a>
+<a href="https://www.linkedin.com/in/lukas-volgger-894541251/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%23202121&style=for-the-badge&logo=linkedin&logoColor=%230961B8" height="32">
+</a>
+<a href="https://www.xing.com/profile/Lukas_Volgger4" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=xing&color=%23202121&style=for-the-badge&logo=xing&logoColor=%23C3D136" height="32">
+</a>
 
-<a href="https://lukas-volgger.at" target="_blank">![Portfolio - https://lukas-volgger.at](https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)</a>
+<br>
+
+### My Portfolio Website:
+
+<br>
+
+<a href="https://lukas-volgger.at" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%23fff536" height="32">
+</a>
+
+<br>
 
 <details> 
   <summary>:bar_chart: <b>Statistics</b></summary>
   <br>
   
-  <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=2478ff" height="200px" />
+  <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ffa50a" height="200px" />
   <br>
-  <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=2478ff" height="200px" />
+  <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
   <br>
-  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=2478ff&line=2478ff&point=ffffff&area=true&hide_border=true&title_color=2478ff" height="200px" />
+  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=ffffff&line=91ff30&point=ffffff&area=true&hide_border=true&title_color=91ff30" height="200px" />
 
 </details>
 
 <details> 
   <summary>:zap: <b>Skills & Languages</b></summary>
   <br>
-  
-  ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=%23202121&style=for-the-badge&logo=html5&logoColor=%232478ff)
-  ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=%23202121&style=for-the-badge&logo=css3&logoColor=%232478ff)
-  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=%23202121&style=for-the-badge&logo=javascript&logoColor=%232478ff)
-  ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%23202121&style=for-the-badge&logo=typescript&logoColor=%232478ff)
-  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23202121&style=for-the-badge&logo=git&logoColor=%232478ff)
-  ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=%23202121&style=for-the-badge&logo=mysql&logoColor=%232478ff)
-  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=%23202121&style=for-the-badge&logo=java&logoColor=%232478ff)
-  
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%23E97B18" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Spring+(Boot)&color=%23202121&style=for-the-badge&logo=spring&logoColor=%236EB442" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Play+Framework&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%238BC63A" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Angular&color=%23202121&style=for-the-badge&logo=angular&logoColor=%23D2002F" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23202121&style=for-the-badge&logo=JavaScript&logoColor=%23EAD41C" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=%23202121&style=for-the-badge&logo=typescript&logoColor=%232F74C0" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23202121&style=for-the-badge&logo=html5&logoColor=%23D84924" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%23202121&style=for-the-badge&logo=css3&logoColor=%232449D8" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%23202121&style=for-the-badge&logo=mysql&logoColor=%23006F88" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Git&color=%23202121&style=for-the-badge&logo=git&logoColor=%23E94E31" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23202121&style=for-the-badge&logo=bootstrap&logoColor=%23880AFB" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Material+Design&color=%23202121&style=for-the-badge&logo=material-design&logoColor=%236F6F6F" height="32">
+ 
 </details>
 
 <details> 
   <summary>:rocket: <b>Tools & Frameworks</b></summary>
   <br>
-  
-  ![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%232478ff)
-  ![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=%23202121&style=for-the-badge&logo=visual-studio&logoColor=%232478ff)
-  ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=%23202121&style=for-the-badge&logo=angular&logoColor=%232478ff)
-  ![Play](https://img.shields.io/static/v1?label=&message=Play+Framework&color=%23202121&style=for-the-badge&logo=play&logoColor=%232478ff)
-  ![Node.JS](https://img.shields.io/static/v1?label=&message=Node.JS&color=%23202121&style=for-the-badge&logo=node.js&logoColor=%232478ff)
-  ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23202121&style=for-the-badge&logo=firebase&logoColor=%232478ff)
-  ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23202121&style=for-the-badge&logo=bootstrap&logoColor=%232478ff)
-  ![Material Design](https://img.shields.io/static/v1?label=&message=Material+Design&color=%23202121&style=for-the-badge&logo=material-design&logoColor=%232478ff)
-  ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=%23202121&style=for-the-badge&logo=github&logoColor=%232478ff)
-  ![Notepad++](https://img.shields.io/static/v1?label=&message=Notepad%2B%2B&color=%23202121&style=for-the-badge&logo=notepad%2B%2B&logoColor=%232478ff)
-  ![Cmake](https://img.shields.io/static/v1?label=&message=Cmake&color=%23202121&style=for-the-badge&logo=cmake&logoColor=%232478ff)
-  ![Chrome](https://img.shields.io/static/v1?label=&message=Chrome&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%232478ff)
-  ![Inkscape](https://img.shields.io/static/v1?label=&message=Inkscape&color=%23202121&style=for-the-badge&logo=inkscape&logoColor=%232478ff)
-  [![GIMP](https://img.shields.io/static/v1?label=&message=GIMP&color=%23202121&style=for-the-badge&logo=gimp&logoColor=%232478ff)](contact@lukas-volgger.at)
+  <img src="https://img.shields.io/static/v1?label=&message=IntelliJ+IDEA&color=%23202121&style=for-the-badge&logo=intellijidea&logoColor=%23EFEFEF" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%2341A2E9" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=%23202121&style=for-the-badge&logo=docker&logoColor=%230997E5" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=%23202121&style=for-the-badge&logo=node.js&logoColor=%237CC327" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%23202121&style=for-the-badge&logo=firebase&logoColor=%23F2C12D" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=%23202121&style=for-the-badge&logo=github&logoColor=%23ffffff" height="32">
   
 </details>
   
