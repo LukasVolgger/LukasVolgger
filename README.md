@@ -9,8 +9,6 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 ## :page_with_curl: Contact
 
-<br>
-
 <a href="mailto: contact@lukas-volgger.at" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%23ECB831" height="32">
 </a>
@@ -25,10 +23,8 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 ### My Portfolio Website:
 
-<br>
-
 <a href="https://lukas-volgger.at" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%23fff536" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%2339a6e6" height="32">
 </a>
 
 <br>
@@ -37,17 +33,18 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <summary>:bar_chart: <b>Statistics</b></summary>
   <br>
   
-  <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ffa50a" height="200px" />
+  <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=e64d39" height="200px" />
   <br>
   <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
   <br>
-  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=ffffff&line=91ff30&point=ffffff&area=true&hide_border=true&title_color=91ff30" height="200px" />
+  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=ffffff&line=91ff30&point=ffffff&area=true&hide_border=true&title_color=91ff30" height="280px" />
 
 </details>
 
 <details> 
   <summary>:zap: <b>Skills & Languages</b></summary>
   <br>
+
   <img src="https://img.shields.io/static/v1?label=&message=Java&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%23E97B18" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Spring+(Boot)&color=%23202121&style=for-the-badge&logo=spring&logoColor=%236EB442" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Play+Framework&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%238BC63A" height="32">
@@ -64,8 +61,9 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 </details>
 
 <details> 
-  <summary>:rocket: <b>Tools & Frameworks</b></summary>
+  <summary>:rocket: <b>Tools</b></summary>
   <br>
+
   <img src="https://img.shields.io/static/v1?label=&message=IntelliJ+IDEA&color=%23202121&style=for-the-badge&logo=intellijidea&logoColor=%23EFEFEF" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%2341A2E9" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=%23202121&style=for-the-badge&logo=docker&logoColor=%230997E5" height="32">
