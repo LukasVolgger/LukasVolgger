@@ -28,6 +28,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 </a>
 
 <br>
+<br>
 
 <details> 
   <summary>:bar_chart: <b>Statistics</b></summary>
