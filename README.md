@@ -37,8 +37,6 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=e64d39" height="200px" />
   <br>
   <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
-  <br>
-  <img alt="Lukas Volgger's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LukasVolgger&bg_color=202121&color=ffffff&line=91ff30&point=ffffff&area=true&hide_border=true&title_color=91ff30" height="280px" />
 
 </details>
 
