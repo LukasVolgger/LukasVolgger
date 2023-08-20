@@ -15,9 +15,6 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 <a href="https://www.linkedin.com/in/lukas-volgger-894541251/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%23202121&style=for-the-badge&logo=linkedin&logoColor=%230961B8" height="32">
 </a>
-<a href="https://www.xing.com/profile/Lukas_Volgger4" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=xing&color=%23202121&style=for-the-badge&logo=xing&logoColor=%23C3D136" height="32">
-</a>
 
 <br>
 
