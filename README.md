@@ -3,7 +3,7 @@
 I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 - :fire: I am currently working on several private projects
-- :books: I am currently learning Java, Spring Boot, DevOps
+- :books: I am currently learning C#, .NET, ASP.NET, API, MVC
 - :speech_balloon: You can speak to me in english, german and sarcasm
 - :heart: I love coding, gaming, nature and god
 
@@ -41,9 +41,10 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <summary>:zap: <b>Skills & Languages</b></summary>
   <br>
 
+  <img src="https://img.shields.io/static/v1?label=&message=CSHARP&color=%23202121&style=for-the-badge&logo=csharp&logoColor=%236F1C7B" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=.NET&color=%23202121&style=for-the-badge&logo=dotnet&logoColor=%235632D5" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Java&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%23E97B18" height="32">
-  <img src="https://img.shields.io/static/v1?label=&message=Spring+(Boot)&color=%23202121&style=for-the-badge&logo=spring&logoColor=%236EB442" height="32">
-  <img src="https://img.shields.io/static/v1?label=&message=Play+Framework&color=%23202121&style=for-the-badge&logo=openjdk&logoColor=%238BC63A" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=%23202121&style=for-the-badge&logo=react&logoColor=%2361DBFB" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Angular&color=%23202121&style=for-the-badge&logo=angular&logoColor=%23D2002F" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23202121&style=for-the-badge&logo=JavaScript&logoColor=%23EAD41C" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=%23202121&style=for-the-badge&logo=typescript&logoColor=%232F74C0" height="32">
