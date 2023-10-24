@@ -50,6 +50,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=%23202121&style=for-the-badge&logo=typescript&logoColor=%232F74C0" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23202121&style=for-the-badge&logo=html5&logoColor=%23D84924" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%23202121&style=for-the-badge&logo=css3&logoColor=%232449D8" height="32">
+  <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=%23202121&style=for-the-badge&logo=node.js&logoColor=%237CC327" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%23202121&style=for-the-badge&logo=mysql&logoColor=%23006F88" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=%23202121&style=for-the-badge&logo=git&logoColor=%23E94E31" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%23202121&style=for-the-badge&logo=bootstrap&logoColor=%23880AFB" height="32">
@@ -65,7 +66,6 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <img src="https://img.shields.io/static/v1?label=&message=IntelliJ+IDEA&color=%23202121&style=for-the-badge&logo=intellijidea&logoColor=%23EFEFEF" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%2341A2E9" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=%23202121&style=for-the-badge&logo=docker&logoColor=%230997E5" height="32">
-  <img src="https://img.shields.io/static/v1?label=&message=Node.JS&color=%23202121&style=for-the-badge&logo=node.js&logoColor=%237CC327" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%23202121&style=for-the-badge&logo=firebase&logoColor=%23F2C12D" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=%23202121&style=for-the-badge&logo=github&logoColor=%23ffffff" height="32">
   
