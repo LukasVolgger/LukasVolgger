@@ -61,6 +61,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
   <summary>:rocket: <b>Tools</b></summary>
   <br>
 
+<img src="https://img.shields.io/static/v1?label=&message=Rider&color=%23202121&style=for-the-badge&logo=rider&logoColor=%23000000" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=IntelliJ+IDEA&color=%23202121&style=for-the-badge&logo=intellijidea&logoColor=%23EFEFEF" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%2341A2E9" height="32">
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=%23202121&style=for-the-badge&logo=docker&logoColor=%230997E5" height="32">
