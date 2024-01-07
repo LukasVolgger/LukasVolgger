@@ -9,7 +9,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 ## :page_with_curl: Contact
 
-<a href="mailto: contact@lukas-volgger.at" target="_blank">
+<a href="mailto: contact@lukas-volgger.dev" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%23ECB831" height="32">
 </a>
 <a href="https://www.linkedin.com/in/lukas-volgger-894541251/" target="_blank">
@@ -20,7 +20,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 ### My Portfolio Website:
 
-<a href="https://lukas-volgger.at" target="_blank">
+<a href="https://lukas-volgger.dev" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=www.lukas-volgger.at&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%2339a6e6" height="32">
 </a>
 
