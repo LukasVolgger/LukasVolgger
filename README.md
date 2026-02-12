@@ -5,7 +5,7 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 - :fire: I am currently working on several private projects
 - :books: I am currently learning C#, .NET, ASP.NET, API, MVC
 - :speech_balloon: You can speak to me in english, german and sarcasm
-- :heart: I love coding, gaming, nature and god
+- :heart: I love coding, gaming and nature
 
 ## :page_with_curl: Contact
 
@@ -26,16 +26,6 @@ I am a full-stack software developer from Austria and an enthusiastic gamer.
 
 <br>
 <br>
-
-<details> 
-  <summary>:bar_chart: <b>Statistics</b></summary>
-  <br>
-  
-  <img alt="Lukas Volgger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVolgger&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=e64d39" height="200px" />
-  <br>
-  <img alt="Lukas Volgger's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LukasVolgger&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
-
-</details>
 
 <details> 
   <summary>:zap: <b>Skills & Languages</b></summary>
