@@ -4,18 +4,13 @@ I'm Lukas, a full-stack software developer from Austria with a strong focus on m
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
----
-
 # 🚀 Expertise
 
-Since 2018, I have been working in software development, contributing to and delivering multiple projects in my current role as a Software Engineer. My core strength lies in the structured planning, development, and implementation of complex technical solutions. I am driven by the process of transforming ideas into reliable and scalable systems. As a digital native, I have always been interested in understanding how systems work “under the hood” — not only using technology, but building it.
+Since 2018, I have been working in professional software development with a strong focus on backend engineering and system architecture. In my current role as a Software Engineer, I design and implement scalable, maintainable solutions for complex business requirements. My primary specialization lies in building robust backend systems using .NET, designing clean API architectures, and structuring applications with long-term maintainability in mind. I focus on clear separation of concerns, modular design, and pragmatic architectural decisions that balance performance, scalability, and development efficiency.
 
-My professional path did not begin in software engineering. Previously, I worked as a client advisor and team lead in the financial sector, where I was responsible for both customer satisfaction and team performance. This experience strengthened my analytical thinking, communication skills, and sense of ownership — qualities that now directly influence my technical work. My transition into software development began through active contribution to a GitHub project, where I discovered a strong interest in programming. Pursuing formal education in software development was a deliberate decision and has proven to be the right one.
+I am particularly experienced in translating complex domain logic into structured, testable, and well-documented code. Planning and implementing technically demanding features — from concept to deployment — is one of my core strengths. My previous leadership experience in the financial sector sharpened my analytical thinking, sense of responsibility, and structured approach to problem-solving. These qualities now directly support my work in system design, stakeholder communication, and technical decision-making.
 
-Today, I focus on designing and implementing maintainable architectures, solving complex requirements, and continuously improving both technical and structural aspects of the systems I build.
-
-
----
+Today, I concentrate on backend architecture, API design, cloud-integrated solutions, and continuous improvement of system quality and performance.
 
 # 💻 Tech Stack
 
@@ -61,8 +56,6 @@ Today, I focus on designing and implementing maintainable architectures, solving
 ![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=%23202121&style=for-the-badge&logo=visual-studio-code&logoColor=%2341A2E9)
 ![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23202121&style=for-the-badge&logo=git&logoColor=%23E94E31)
 ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=%23202121&style=for-the-badge&logo=github&logoColor=%23ffffff)
-
----
 
 # 🌐 Contact
 
